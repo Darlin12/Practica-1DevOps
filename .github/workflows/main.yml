@@ -19,4 +19,4 @@ jobs:
     - name: Deploy to Surge.sh
       run: |
         surge token ${{ secrets.SURGE_TOKEN }}
-        surge --project ./ --domain Practica.surge.sh
+        surge --project ./ --domain Practica2.surge.sh
