@@ -1,0 +1,12 @@
+{
+  "name": "practica-1devops",
+  "version": "1.0.0",
+  "description": "En esta practica vamos a crear una integracion continua con Github Actions y Surge.sh. Se debe crear una pagina sencilla html y al hacer push de la pagina al repositorio de Github, se debe hacer el deploy automaticamente a surge.sh.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
